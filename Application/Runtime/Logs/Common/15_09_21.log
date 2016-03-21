@@ -1,0 +1,84 @@
+[ 2015-09-21T11:28:39+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:28:39+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Publicjs
+
+[ 2015-09-21T11:28:41+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Publicjs
+
+[ 2015-09-21T11:28:41+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:28:41+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:28:41+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Publicjs
+
+[ 2015-09-21T11:28:42+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:28:42+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Publicjs
+
+[ 2015-09-21T11:28:42+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Publicjs
+
+[ 2015-09-21T11:28:42+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:28:42+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Publicjs
+
+[ 2015-09-21T11:28:42+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:29:00+08:00 ] 127.0.0.1 /riding/Publiccss/styles.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Publiccss
+
+[ 2015-09-21T11:29:00+08:00 ] 127.0.0.1 /riding/Publicjs/jquery-2.1.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Publicjs
+
