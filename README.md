@@ -35,20 +35,3 @@ ThinkPHP从诞生以来一直秉承大道至简的开发理念，无论从底层
 ## 商业友好的开源协议
 
 ThinkPHP遵循Apache2开源协议发布。Apache Licence是著名的非盈利开源组织Apache采用的协议。该协议和BSD类似，鼓励代码共享和尊重原作者的著作权，同样允许代码修改，再作为开源或商业软件发布。
-
-
-Think\Controller:diplay方法不存在！
-错误位置
-FILE: D:\WWW\riding\ThinkPHP\Library\Think\Controller.class.php 　LINE: 173
-TRACE
-#0 D:\WWW\riding\ThinkPHP\Library\Think\Controller.class.php(173): E('Think\Controlle...')
-#1 D:\WWW\riding\Application\Home\Controller\IndexController.class.php(14): Think\Controller->__call('diplay', Array)
-#2 D:\WWW\riding\Application\Home\Controller\IndexController.class.php(14): Home\Controller\IndexController->diplay()
-#3 [internal function]: Home\Controller\IndexController->left()
-#4 D:\WWW\riding\ThinkPHP\Library\Think\App.class.php(164): ReflectionMethod->invoke(Object(Home\Controller\IndexController))
-#5 D:\WWW\riding\ThinkPHP\Library\Think\App.class.php(202): Think\App::exec()
-#6 D:\WWW\riding\ThinkPHP\Library\Think\Think.class.php(120): Think\App::run()
-#7 D:\WWW\riding\ThinkPHP\ThinkPHP.php(97): Think\Think::start()
-#8 D:\WWW\riding\index.php(32): require('D:\WWW\riding\T...')
-#9 {main}
-ThinkPHP3.2.3 { Fast & Simple OOP PHP Framework } -- [ WE CAN DO IT JUST THINK ]
